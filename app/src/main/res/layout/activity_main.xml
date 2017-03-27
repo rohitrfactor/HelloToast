@@ -18,6 +18,7 @@
         android:onClick="showToast"
         />
     <TextView
+        android:id="@+id/show_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="@dimen/count_text_size"
